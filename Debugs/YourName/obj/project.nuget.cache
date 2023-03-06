@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jB6SMZMjrd7kl9/DbDJLUOaDf0vOHkXMPhde87PP6UR94Mmn1z0R8VkRfItaHDQFi//gHFyR1SFhPZUdGk9mzg==",
+  "dgSpecHash": "HDt2nDJla2sAExxVvSHg4Me/NvfYQr1N1Ka4ERudaq5smlT6cQB6VUQgmoW6Kgv2rp8wFrYqDrrlsaDHwsw5ew==",
   "success": true,
   "projectFilePath": "/workspaces/CSharp-Tutorials/Debugs/YourName/YourName.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.3/microsoft.netcore.app.runtime.linux-x64.7.0.3.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.3/microsoft.aspnetcore.app.runtime.linux-x64.7.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
