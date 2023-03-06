@@ -1,0 +1,15 @@
+/workspaces/CSharp-Tutorials/Releases/Life/Life
+/workspaces/CSharp-Tutorials/Releases/Life/Life.deps.json
+/workspaces/CSharp-Tutorials/Releases/Life/Life.runtimeconfig.json
+/workspaces/CSharp-Tutorials/Releases/Life/Life.dll
+/workspaces/CSharp-Tutorials/Releases/Life/Life.pdb
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/Life.csproj.AssemblyReference.cache
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/Life.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/Life.AssemblyInfoInputs.cache
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/Life.AssemblyInfo.cs
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/Life.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/Life.dll
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/refint/Life.dll
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/Life.pdb
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/Life.genruntimeconfig.cache
+/workspaces/CSharp-Tutorials/Debugs/Life/obj/Release/net7.0/ref/Life.dll

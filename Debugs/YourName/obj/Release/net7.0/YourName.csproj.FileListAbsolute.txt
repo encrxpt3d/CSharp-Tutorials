@@ -1,0 +1,15 @@
+/workspaces/CSharp-Tutorials/Debugs/YourName/bin/Release/net7.0/YourName
+/workspaces/CSharp-Tutorials/Debugs/YourName/bin/Release/net7.0/YourName.deps.json
+/workspaces/CSharp-Tutorials/Debugs/YourName/bin/Release/net7.0/YourName.runtimeconfig.json
+/workspaces/CSharp-Tutorials/Debugs/YourName/bin/Release/net7.0/YourName.dll
+/workspaces/CSharp-Tutorials/Debugs/YourName/bin/Release/net7.0/YourName.pdb
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/YourName.csproj.AssemblyReference.cache
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/YourName.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/YourName.AssemblyInfoInputs.cache
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/YourName.AssemblyInfo.cs
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/YourName.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/YourName.dll
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/refint/YourName.dll
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/YourName.pdb
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/YourName.genruntimeconfig.cache
+/workspaces/CSharp-Tutorials/Debugs/YourName/obj/Release/net7.0/ref/YourName.dll

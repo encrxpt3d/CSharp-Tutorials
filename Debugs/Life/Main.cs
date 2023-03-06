@@ -38,17 +38,22 @@ namespace Life
             myPerson.Job = (jobChoice < jobs.Length) ? jobs[jobChoice] : "Unemployed";
             Console.WriteLine();
 
-            if (myPerson.Job == "Unemployed")
+            switch (myPerson.Job)
             {
-                Console.WriteLine("Sadly, there were no jobs found in the range you selected. You remain Unemployed.");
-            }
-            else if (myPerson.Job == "Chef")
-            {
-                Console.WriteLine("You were interviewed for a position at a nearby restaurant.\nLuckily, you brought your cooking skills with you- you passed.\n\nYou have been hired as a Chef.");
-            }
-            else if (myPerson.Job == "Teacher")
-            {
-                Console.WriteLine("You went to college for four years to obtain your teaching credentials. You now find a school to apply for a job at.\nYou have been interviewed and- you passed.\n\nYou have been hired as a Teacher.");
+                case "Unemployed":
+                    Console.WriteLine("Sadly, there were no jobs found in the range you selected. You remain Unemployed.");
+                    break;
+
+                case "Chef":
+                    Console.WriteLine("You were interviewed for a position at a nearby restaurant.\nLuckily, you brought your cooking skills with you- you passed.\n\nYou have been hired as a Chef.");
+                    break;
+
+                case "Teacher":
+                    Console.WriteLine("You went to college for four years to obtain your teaching credentials. You now find a school to apply for a job at.\nYou have been interviewed and- you passed.\n\nYou have been hired as a Teacher.");
+                    break;
+
+                default:
+                    break;
             }
         }
     }
