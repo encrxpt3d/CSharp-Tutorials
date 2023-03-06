@@ -1,0 +1,5 @@
+/workspaces/CSharp-Tutorials/YourName/Your_Name/YourName
+/workspaces/CSharp-Tutorials/YourName/Your_Name/YourName.dll
+/workspaces/CSharp-Tutorials/YourName/Your_Name/YourName.deps.json
+/workspaces/CSharp-Tutorials/YourName/Your_Name/YourName.runtimeconfig.json
+/workspaces/CSharp-Tutorials/YourName/Your_Name/YourName.pdb
